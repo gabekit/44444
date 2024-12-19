@@ -1,1 +1,0 @@
-wscript file.vbs file.bat
